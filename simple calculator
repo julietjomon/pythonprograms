@@ -1,0 +1,20 @@
+def add(a,b):
+    return a+b
+def subtract(c,d):
+    return c-d
+def multiply(e,f):
+    return e*f
+def divide(m,n):
+    return m/n
+
+    OUTPUT
+    print(add(10,10))
+20
+print(subtract(20,10))
+10
+print(multiply(15,2))
+30
+print(divide(10,5))
+2.0
+
+    
